@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar aka. ClarineTread</h1>
 <h3 align="center">I'm a college student working on small-scale and basic projects</h3>
 
-- 🌱 I’m currently learning **Python, R and C**
+- 🌱 I’m currently learning **Python, R, C++**
 
 - 💬 Ask me about **Python**
 
